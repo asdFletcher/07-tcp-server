@@ -1,7 +1,7 @@
 {
   "name": "class-06",
   "version": "1.0.0",
-  "description": "",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB 6 =================================================",
   "main": "chatroom.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jest": "^23.6.0",
     "uuid": "^3.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asdFletcher/07-tcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asdFletcher/07-tcp-server/issues"
+  },
+  "homepage": "https://github.com/asdFletcher/07-tcp-server#readme"
 }
