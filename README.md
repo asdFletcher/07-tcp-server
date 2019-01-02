@@ -111,7 +111,18 @@ Instructions for replicating the tests for this project are as follows:
 
 ### Dependencies
 
-* jest: `npm i jest`
+* Jest: `npm i jest` 
+    * [Jest docs](https://jestjs.io/docs/en/getting-started)
+    * testing
+* JSDoc: `npm i jsdoc`
+    * [JSDoc docs](http://usejsdoc.org/)
+    * documentation
+* uuid: `npm i uuid`
+    * [uuid docs](https://www.npmjs.com/package/uuid)
+    * for creating unique ID's for users
+* require-directory:
+    * [require-directory docs](https://www.npmjs.com/package/require-directory)
+    * for requiring all files in a directory, not just single files
 
 
 ### Setup
